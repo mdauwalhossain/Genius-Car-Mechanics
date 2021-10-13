@@ -35,7 +35,7 @@ const useFirebase = () => {
     }
     
     return{
-        user,
+         user,
         signInWithGoogle,
         logOut
     }
